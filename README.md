@@ -1,2 +1,3 @@
 # kuka
-ttrtzrz
+jó
+oké
